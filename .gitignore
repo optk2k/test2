@@ -1,0 +1,4 @@
+.idea
+venv
+__*
+db.sqlite3
